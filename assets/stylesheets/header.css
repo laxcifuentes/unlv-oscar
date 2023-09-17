@@ -1,0 +1,25 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: inline;
+  }
+
+  .nav-one {
+    background: black;
+    color: white;
+  }
+
+  .nav-one ul {
+    display: flex;
+    justify-content: flex-end;
+  }
+
+  .nav-two ul {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .img {
+    align-items: center;
+  }
